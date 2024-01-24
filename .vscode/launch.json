@@ -1,0 +1,241 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JDBC_Practice.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Ms1_Day2.Factorial",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "jdbcdemo1",
+            "request": "launch",
+            "mainClass": "JDBC.jdbcdemo1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "SwitchImpl",
+            "request": "launch",
+            "mainClass": "JDBC.SwitchImpl",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ComparatorImpl",
+            "request": "launch",
+            "mainClass": "Ms1_Day4.ComparatorImpl",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ComparableImpl",
+            "request": "launch",
+            "mainClass": "Ms1_Day4.ComparableImpl",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Mapimpl",
+            "request": "launch",
+            "mainClass": "Ms1_Day4.Mapimpl",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "SetOperations",
+            "request": "launch",
+            "mainClass": "Ms1_Day4.SetOperations",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Ms1_Day4.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HandleException",
+            "request": "launch",
+            "mainClass": "Ms1_Day4.HandleException",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlist",
+            "request": "launch",
+            "mainClass": "Ms1_Day4.Linkedlist",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "WrapClasses",
+            "request": "launch",
+            "mainClass": "Ms1_Day4.WrapClasses",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashExample",
+            "request": "launch",
+            "mainClass": "Ms1_Day4.HashExample",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceExample",
+            "request": "launch",
+            "mainClass": "Ms1_day3.InterfaceExample",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Abstractclasses",
+            "request": "launch",
+            "mainClass": "Ms1_day3.Abstractclasses",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Covariant",
+            "request": "launch",
+            "mainClass": "Ms1_day3.Covariant",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Override",
+            "request": "launch",
+            "mainClass": "Ms1_day3.Override",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Multilevel",
+            "request": "launch",
+            "mainClass": "Ms1_day3.Multilevel",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Ms1_day3.Inheritance",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Ms1_day3.Employee",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Overload",
+            "request": "launch",
+            "mainClass": "Ms1_day3.Overload",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrCopy",
+            "request": "launch",
+            "mainClass": "Ms1_Day2.Ms1_Day2.ArrCopy",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "StaticIllustration",
+            "request": "launch",
+            "mainClass": "Ms1_Day2.StaticIllustration",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Oops_classes",
+            "request": "launch",
+            "mainClass": "Ms1_Day2.Oops_classes",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "Ms1_Day2.TwoDArray",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayPractice",
+            "request": "launch",
+            "mainClass": "Ms1_Day2.ArrayPractice",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayPractice",
+            "request": "launch",
+            "mainClass": "ArrayPractice",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "name": "Test App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Test App",
+            "type": "pwa-node"
+        },
+        {
+            "name": "Submit App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Submit App",
+            "type": "pwa-node"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-HelloworldApplication<helloworld>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ltim.helloworld.HelloworldApplication",
+            "projectName": "helloworld",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PostmappingApplication<postmapping>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ltim.postmapping.PostmappingApplication",
+            "projectName": "postmapping",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
